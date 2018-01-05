@@ -1,0 +1,2 @@
+# GoInterface
+Golang Interface Example
